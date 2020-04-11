@@ -1,5 +1,9 @@
-# Electric_Brewery
-My electric home brewing setup
+<p align="center">
+  <img src="https://github.com/mdhutchis/Schwendi_Brewing/blob/master/VSS-59.png">
+</p>
+
+# VSS 59 Brewing
+A collection of parts and helpers for the VSS 59 brewery setup.
 
 ## Random Parts
 ### Drip Tray
