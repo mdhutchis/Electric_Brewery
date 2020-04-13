@@ -8,7 +8,20 @@ VSS 59 brewing uses an all-electric Brew-In-A-Bag (BIAB) setup. This method orig
 Many of the parts are custom designed and printed with a 3D printer; these parts are included in this repository for reference. Contributions are welcome; printed parts can be provided if desired.
 
 # Main Brewery Components
-In progress.
+- Malt Grinder from www.brauhardware.de
+- 30 Liter brew pot with dual (1700W + 700W) heating elements
+- Electronic Control Unit
+  - ATX power supply (12V, 5V, 3.3V)
+  - RaspberryPi with CraftBeerPi
+  - DS1850 temperature sensors
+  - 10A/250V mechanical relays (2xheater, 1xPump)
+  - 12V DC re-circulation pump
+  - XLR connectors for quick storage and setup
+  - USB charging port
+- 30 Liter stainless steel fermenter (with temperature controlled environment)
+  - iSpindel to measure temperature and specific gravity
+- 19L Corny kegs for storage
+- Brewing and Fermentation logs integrated with UbiDots for analytics
   
 # 3D Printed Parts List
 ## Random Parts
