@@ -9,6 +9,9 @@ A collection of parts and helpers for the VSS 59 brewery setup.
 ### Drip Tray
 This is a little helper to keep beer from dripping out of the picnic taps. It prints in two pieces and then is assembled and hung on the picnic tap. Keeps the fridge clean!
 
+- [Drip Tray](https://github.com/mdhutchis/VSS_Brewing/blob/master/Random_Parts/Drip%20Tray.stl)
+- [Hanger](https://github.com/mdhutchis/VSS_Brewing/blob/master/Random_Parts/Drip%20Tray%20Hanger.stl)
+
 <p align="center">
   <img src="https://github.com/mdhutchis/Schwendi_Brewing/blob/master/Random_Parts/Drip%20Tray.png">
 </p>
