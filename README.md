@@ -15,3 +15,10 @@ This is a little helper to keep beer from dripping out of the picnic taps. It pr
 <p align="center">
   <img src="https://github.com/mdhutchis/Schwendi_Brewing/blob/master/Random_Parts/Drip%20Tray.png">
 </p>
+
+
+## iSpindle
+I was having trouble finding a PET container that fit the standard [iSpindle](https://github.com/universam1/iSpindel) sleds that you can find on Thingiverse. I found one that was "almost" the right size but had to design a sled that would work with it. The .scad code is included so that you can customize it for your PET container.
+
+- [iSpindle Sled](https://github.com/mdhutchis/VSS_Brewing/blob/master/iSpindle/Custom%20Sled.stl)
+
