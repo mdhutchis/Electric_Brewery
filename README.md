@@ -8,7 +8,7 @@ VSS 59 brewing uses an all-electric Brew-In-A-Bag (BIAB) setup. This method orig
 Many of the parts are custom designed and printed with a 3D printer; these parts are included in this repository for reference. Contributions are welcome; printed parts can be provided if desired.
 
 # Main Brewery Components
-- Malt Grinder from www.brauhardware.de
+- Questchfreund Malt Grinder from www.brauhardware.de
 - 30 Liter brew pot with dual (1700W + 700W) heating elements
 - Electronic Control Unit
   - ATX power supply (12V, 5V, 3.3V)
@@ -22,7 +22,14 @@ Many of the parts are custom designed and printed with a 3D printer; these parts
   - iSpindel to measure temperature and specific gravity
 - 19L Corny kegs for storage
 - Brewing and Fermentation logs integrated with UbiDots for analytics
-  
+
+<p align="center">
+  <img src="https://github.com/mdhutchis/Schwendi_Brewing/blob/master/images/grinder.png">
+  <img src="https://github.com/mdhutchis/Schwendi_Brewing/blob/master/images/brew_setup.png"><br>
+  <img src="https://github.com/mdhutchis/Schwendi_Brewing/blob/master/images/electronics.png">
+  <img src="https://github.com/mdhutchis/Schwendi_Brewing/blob/master/images/electronics_inside.png">
+</p>
+
 # 3D Printed Parts List
 ## Random Parts
 ### Drip Tray
